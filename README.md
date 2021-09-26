@@ -2,7 +2,7 @@
 - :brain: I am interested in learning and developing as much knowledge as possible about the amazing and captivating world of technology.
 - :student: I'm currently learning front-end technologies such as: Javascript, PHP and MySql. :hugs:
 
-> Note: I already have prior knowledge of HTML and CSS :smile: 
+> Note: I have prior knowledge of HTML and CSS :smile: 
 
 - 📫 Contact: arthurmendesmartins0105@gmail.com 
 
