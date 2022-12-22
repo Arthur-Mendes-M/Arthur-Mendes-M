@@ -1,7 +1,7 @@
 ## Hey!! Prazer, me chamo Arthur Mendes 👋
 
 👨‍🎓 🕵️ Atualmente sou estudante, entusiasta e curioso pelo mundo da tecnologia.
-Além do conteúdo fornecido pelo ensino médio procuro sempre evoluir e dar um sata de conhecimento com cursos e projetos pessoais.
+Além do conteúdo fornecido pelo ensino médio procuro sempre evoluir e dar um salto de conhecimento com cursos e projetos pessoais.
 <br/>
 <br/>
 
