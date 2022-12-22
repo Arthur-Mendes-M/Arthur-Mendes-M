@@ -7,7 +7,7 @@ Além do conteúdo fornecido pelo ensino médio procuro sempre evoluir e dar um 
 
 >### Status
 🎓 Estudante <i>2022 -> 3º ano do ensino médio com técnico em analise e desenvolvimento de sistemas</i><br/>
-🌐 Realizando curso de web completo pela platarforma <i>Udemy</i><br/>
+🌐 Realizando curso de programação fullStack JavaScript pelo <i>OneBitCode</i><br/>
 👨‍💻 A procura da 1º oportunidade no mercado de trabalho.<br/><br/>
 
 
