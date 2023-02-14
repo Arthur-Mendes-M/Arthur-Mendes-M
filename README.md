@@ -6,7 +6,7 @@ Além do conteúdo fornecido pelo ensino médio procuro sempre evoluir e dar um 
 <br/>
 
 >### Status
-🎓 Estudante <i>Formado no ensino médio com técnico em desenvolvimento de sistemas</i><br/>
+🎓 Cursando o ensino superior em Análise e desenvolvimento de sistemas na FATEC.<br/>
 🌐 Realizando curso de programação fullStack JavaScript pelo <i>OneBitCode</i><br/>
 👨‍💻 A procura da 1º oportunidade no mercado de trabalho.<br/><br/>
 
