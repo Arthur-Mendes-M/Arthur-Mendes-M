@@ -32,7 +32,7 @@ Além do conteúdo fornecido pelo ensino médio procuro sempre evoluir e dar um 
 
 <div align="center">
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Mendes-M&layout=compact&theme=transparent&langs_count=10" alt="top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Mendes-M&layout=compact&theme=transparent&langs_count=9" alt="top languages" />
   </a>
 </div>
 
