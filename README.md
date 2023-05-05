@@ -12,34 +12,38 @@ Além do conteúdo fornecido pelo ensino médio procuro sempre evoluir e dar um 
 
 >### Conhecimentos em:
 
-<div syle="display: inline_block;" align="center"><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-</div><br/><br/>
-
-
->### Aprimorando conhecimentos novos:
-
-<div syle="display: inline_block;" align="center"><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
-        
-</div><br/><br/>
-
-<div>  
+<div align="center">
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Mendes-M&layout=compact&theme=transparent&langs_count=10" alt="top languages" height="200"/>
-     <!-- Certo -->  
-    <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Mendes-M&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="Anurag's GitHub stats" height="200"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
   </a>
-</div> 
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Mendes-M&layout=compact&theme=transparent&langs_count=10" alt="top languages" />
+  </a>
+</div>
+
+<br/><br/>
+
+<div align="center">    
+  <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Mendes-M&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="Anurag's GitHub stats" width="48%" />
+  </a>
+</div>
+
 <br>
   
 >### Contatos
