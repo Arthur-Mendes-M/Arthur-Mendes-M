@@ -33,14 +33,12 @@ Além do conteúdo fornecido pelo ensino médio procuro sempre evoluir e dar um 
         
 </div><br/><br/>
 
-<div align="center">  
+<div>  
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Mendes-M&layout=compact&theme=transparent&langs_count=10" alt="top languages" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Mendes-M&layout=compact&theme=transparent&langs_count=10" alt="top languages" height="200"/>
      <!-- Certo -->  
-    <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Mendes-M&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="Anurag's GitHub stats" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Mendes-M&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="Anurag's GitHub stats" height="200"/>
   </a>
-  
-  ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&Arthur-Mendes-M&layout=compact&&theme=default&link="https://www.github.com/Arthur-Mendes-M/") 
 </div> 
 <br>
   
