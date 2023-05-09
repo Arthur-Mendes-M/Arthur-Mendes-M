@@ -1,20 +1,26 @@
-## Hey!! Prazer, me chamo Arthur Mendes 👋
+## Hey!! 👋 It's a pleasure to see you here 😁 I'm Arthur Mendes
 
-👨‍🎓 🕵️ Atualmente sou estudante, entusiasta e curioso pelo mundo da tecnologia.
-Além do conteúdo fornecido pelo ensino médio procuro sempre evoluir e dar um salto de conhecimento com cursos e projetos pessoais.
+### 🤩 A little about myself
+I'm nineteen years old 🥳, I live in Carapicuíba in São Paulo, Brazil 🗺. I'm currently a systems development student at Fatec university 👨‍🎓 and my current goal is to be a full-stack developer 🥷 and get more opportunities for my career.
+
+<h4>🤔 Why tecnhology and why to be a full-stack?</h4>
+It's simple, because I'm in love the technology and all its possibilities 😁! I wanna be a full-stack for to participate in all stages of development of a possible technological innovation 🤯, and again, because I love technology 💌.
+
+<h4>What i doing now?</h4>
+<ul>
+  👨‍🎓 I'm studying at a systems development university. <br/>
+  🧠 I'm studying in a javaScript full-stack web course named OneBitCode. <br/>
+  🎯 I'm looking for my first job opportunity. <br/>
+</ul>
+
 <br/>
 <br/>
 
->### Status
-🎓 Cursando o ensino superior em Análise e desenvolvimento de sistemas na FATEC.<br/>
-🌐 Realizando curso de programação fullStack JavaScript pelo <i>OneBitCode</i><br/>
-👨‍💻 A procura da 1º oportunidade no mercado de trabalho.<br/><br/>
-
->### Conhecimentos em:
+>### Knowleadge at:
 
 <div align="center">
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/></code>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
