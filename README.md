@@ -13,10 +13,7 @@ It's simple, because I'm in love the technology and all its possibilities 😁! 
   🎯 I'm looking for my first job opportunity. <br/>
 </ul>
 
-<br/>
-<br/>
-
-### ✨ Knowleadge at:
+### ✨ Knowleadges
 
 <div>
   <h4>Technologies - Front-end</h4>
