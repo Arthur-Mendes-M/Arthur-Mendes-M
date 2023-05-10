@@ -48,7 +48,7 @@ It's simple, because I'm in love the technology and all its possibilities 😁! 
   
   <h4>Other development tools</h4>
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/assets/75858153/88131fdc-1562-4609-8d3c-ab0ea0362c05" width="50" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/webpack-original.svg" width="50" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/assets/75858153/dff890cc-70f3-4955-8a81-01efbd1c1792" width="50" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/assets/75858153/c9b0e127-fe5b-401c-bed1-cb6b993b557b" width="50" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/assets/75858153/f4ee58c0-c653-4d40-87e8-436af7746adc" width="50" /></code>
