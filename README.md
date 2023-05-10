@@ -42,8 +42,8 @@ It's simple, because I'm in love the technology and all its possibilities 😁! 
   
   <h4>Technologies - Devops</h4>
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/assets/75858153/0104216c-5deb-4e0b-ad42-5a9ccae03dbe" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/assets/75858153/e36e39b0-856a-4f06-bf8a-bd2c470023d1" width="50" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/github-original.svg" width="50" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/git-original.svg" width="50" /></code>
   </a>
   
   <h4>Other development tools</h4>
