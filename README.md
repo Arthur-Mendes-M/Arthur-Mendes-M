@@ -18,43 +18,44 @@ It's simple, because I'm in love the technology and all its possibilities 😁! 
 <div>
   <h4>Technologies - Front-end</h4>
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/html5-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/css3-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/sass-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/react-original.svg" width="50" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/html5-original.svg" width="50" title="HTML5" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/css3-original.svg" width="50" title="CSS3" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/sass-original.svg" width="50" title="SASS" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="50" title="Javascript" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/react-original.svg" width="50" title="React" /></code>
   </a>
   
   <h4>Technologies - Back-end</h4>
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/php-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/mysql-original-wordmark.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/python-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/java-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/dart-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/flutter-original.svg" width="50" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="50" title="Javascript" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/php-original.svg" width="50" title="PHP" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/mysql-original-wordmark.svg" width="50" title="MySql" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/python-original.svg" width="50" title="Python" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/java-original.svg" width="50" title="Java" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/dart-original.svg" width="50" title="Dart" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/flutter-original.svg" width="50" title="Flutter" /></code>
   </a>
   
   <h4>Technologies - Devops</h4>
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/github-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/git-original.svg" width="50" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/github-original.svg" width="50" title="Github" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/git-original.svg" width="50" title="Git" /></code>
   </a>
   
   <h4>Other development tools</h4>
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/webpack-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/npm-original-wordmark.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/vscode-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/babel-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/vite.svg" width="50" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/webpack-original.svg" width="50" title="Webpack" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/npm-original-wordmark.svg" width="50" title="npm" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/vscode-original.svg" width="50" title="Visual Studio Code" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/babel-original.svg" width="50" title="Babel" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/vite.svg" width="50" title="Vite" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/vercel.svg" width="50" title="Vercel" /></code>
   </a>
  
   <h4>Design tools</h4>
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/figma-original.svg" width="50" /></code>
-    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/canva-original.svg" width="50" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/figma-original.svg" width="50" title="Figma" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/canva-original.svg" width="50" title="Canva" /></code>
   </a>
 </div>
 
