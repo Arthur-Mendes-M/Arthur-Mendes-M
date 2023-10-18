@@ -27,6 +27,7 @@ It's simple, because I'm in love the technology and all its possibilities 😁! 
   
   <h4>Technologies - Back-end</h4>
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/nodejs-original.svg" width="50" title="Node.JS" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="50" title="Javascript" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/php-original.svg" width="50" title="PHP" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/mysql-original-wordmark.svg" width="50" title="MySql" /></code>
