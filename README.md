@@ -22,6 +22,7 @@ It's simple, because I'm in love the technology and all its possibilities 😁! 
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/css3-original.svg" width="50" title="CSS3" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/sass-original.svg" width="50" title="SASS" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="50" title="Javascript" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/typescript-original.svg" width="50" title="Typescript" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/react-original.svg" width="50" title="React" /></code>
   </a>
   
@@ -29,6 +30,7 @@ It's simple, because I'm in love the technology and all its possibilities 😁! 
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/nodejs-original.svg" width="50" title="Node.JS" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="50" title="Javascript" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/typescript-original.svg" width="50" title="Typescript" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/php-original.svg" width="50" title="PHP" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/mysql-original-wordmark.svg" width="50" title="MySql" /></code>
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/python-original.svg" width="50" title="Python" /></code>
