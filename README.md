@@ -56,11 +56,11 @@
 
 <div>
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Mendes-M&layout=compact&theme=transparent&langs_count=10" height="230px" alt="top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Mendes-M&layout=compact&theme=transparent&langs_count=10" height="200px" alt="top languages" />
   </a>
 
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Mendes-M&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="Anurag's GitHub stats" height="230px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Mendes-M&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="Anurag's GitHub stats" height="200px" />
   </a>
 </div>
 
