@@ -68,7 +68,7 @@
   
 >### Contacts
 
-<div syle="display: inline_block" align="center"><br/>
+<div align="center"><br/>
   <a href="mailto:arthurmendesmartins0105@gmail.com" target="_blank"/><img src="https://img.shields.io/badge/Gmail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/arthur-mendes-martins-b7ba6a1b8" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/arthurm_mendes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
