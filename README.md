@@ -2,28 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=30&pause=300&random=false&width=500&lines=Hey!!+%F0%9F%91%8B;It's+a+pleasure+to+see+you+here+%F0%9F%98%81;I'm+Arthur+Mendes)](https://git.io/typing-svg)
 
-<div>
-
-  <div>
-    <h2>A little about me</h2>
-    <p>
-      I'm twenty years old and reside in Carapicuíba, São Paulo, Brazil. Currently, I'm a student at Fatec university, studying systems development. My aim is to become a full-stack developer and further my career in the field.
-    </p>
-    <h3>Why technology and why aspire to be a full-stack developer?</h3>
-  <p>
-      It's quite simple, I have a passion for technology and its endless possibilities! Being a full-stack developer allows me to engage in every phase of technological innovation, and of course, because I'm passionate about technology.
-  </p>
-
-  <h3>What am I up to now?</h3>
-  <ul>
-    <li>I'm enrolled in a systems development program at university.</li>
-    <li>I'm also undertaking a JavaScript full-stack web course called OneBitCode.</li>
-  </ul>
-  </div>
-
-  <div></div>
-  
-</div>
+| A little about me |  |
+| ------ | ------ |
+| I'm twenty years old and reside in Carapicuíba, São Paulo, Brazil. Currently, I'm a student at Fatec university, studying systems development. My aim is to become a full-stack developer and further my career in the field. |
+| Why technology and why aspire to be a full-stack developer? |  |
+|  |  |
+| It's quite simple, I have a passion for technology and its endless possibilities! Being a full-stack developer allows me to engage in every phase of technological innovation, and of course, because I'm passionate about technology. <br/><br/> <br/> <br/>  Photo: My matrix mode| <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/matrix_me.jpeg" width="500px" /> |
+| What am I up to now? |  |
+|  |  |
+| <ul><li>I'm enrolled in a systems development program at university.</li><li>I'm also undertaking a JavaScript full-stack web course called OneBitCode.</li></ul> |  |
 
 <br />
 
@@ -81,7 +68,7 @@
 <br />
 <br />
 
-<div>
+<div align="center">
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Mendes-M&layout=compact&theme=transparent&langs_count=10" height="200px" alt="top languages" />
   </a>
