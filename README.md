@@ -6,11 +6,11 @@
 | ------ | ------ |
 | A little about me |  |
 |  |  |
-| I'm twenty years old and reside in Carapicuíba, São Paulo, Brazil. Currently, I'm a student at Fatec university, studying systems development. My aim is to become a full-stack developer and further my career in the field.<br/><br/><strong>Why technology and why aspire to be a full-stack developer?</strong><br/>It's quite simple, I have a passion for technology and its endless possibilities! Being a full-stack developer allows me to engage in every phase of technological innovation, and of course, because I'm passionate about technology. <br/><br/><br/> ~ My matrix mode on the side ~ | <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/matrix_me.jpeg" width="500px" /> |
+| I'm a graduate in Systems Analysis and Development, currently working at a technology company focused on banking security. I'm actively studying and working in the cybersecurity field, aiming to specialize further through postgraduate and professional master's programs. Beyond my career goals, I enjoy developing real-world solutions to real problems as a hobby.<br/><br/><strong>Why technology and why aspire to be a full-stack developer?</strong><br/>It's quite simple, I have a passion for technology and its endless possibilities! Being a full-stack developer allows me to engage in every phase of technological innovation, and of course, because I'm passionate about technology. <br/><br/><br/> ~ My matrix mode on the side ~ | <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/matrix_me.jpeg" width="500px" /> |
 |  |  |
 | <strong>What am I up to now?</strong> |  |
 |  |  |
-| <ul><li>I'm enrolled in a systems development program at university.</li><li>I'm also undertaking a JavaScript full-stack web course called OneBitCode.</li></ul> |  |
+| <ul><li>Pursue postgraduate studies and a professional master's degree.</li><li>Specialize in cybersecurity.</li><li>Build real-world solutions to real problems as a personal hobby.</li></ul> |  |
 |  |  |
 | ✨ <strong>Knowledges</strong> |  |
 | Front-end | Databases |
@@ -29,10 +29,6 @@
 <div align="center">
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Mendes-M&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="Anurag's GitHub stats" height="200px" />
-  </a>
-
-  <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Mendes-M&theme=transparent&hide_border=false" height="200px">
   </a>
 
   <a href="https://github.com/Arthur-Mendes-M?tab=repositories">
