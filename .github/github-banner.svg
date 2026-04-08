@@ -1,0 +1,144 @@
+<svg viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06080f"/>
+      <stop offset="50%" style="stop-color:#080c18"/>
+      <stop offset="100%" style="stop-color:#050710"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:0"/>
+      <stop offset="40%" style="stop-color:#2563eb;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0.3"/>
+    </linearGradient>
+    <linearGradient id="lineGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:0.1"/>
+      <stop offset="60%" style="stop-color:#2563eb;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#2563eb;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="sparkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b"/>
+      <stop offset="100%" style="stop-color:#fbbf24;stop-opacity:0.4"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e2e8f0"/>
+      <stop offset="60%" style="stop-color:#f8fafc"/>
+      <stop offset="100%" style="stop-color:#94a3b8"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#2563eb;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="glowAmber" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:0.2"/>
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="dots" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.8" fill="#2563eb" opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="1500" height="500" fill="url(#bg)"/>
+  <rect width="1500" height="500" fill="url(#dots)"/>
+
+  <ellipse cx="280" cy="250" rx="320" ry="260" fill="url(#glowBlue)" opacity="0.7"/>
+  <ellipse cx="1250" cy="200" rx="280" ry="220" fill="url(#glowAmber)" opacity="0.5"/>
+
+  <polyline points="40,40 40,140 80,140" fill="none" stroke="#2563eb" stroke-width="1.5" opacity="0.5"/>
+  <polyline points="40,40 140,40 140,80" fill="none" stroke="#2563eb" stroke-width="1.5" opacity="0.5"/>
+  <polyline points="60,60 60,110 90,110" fill="none" stroke="#06b6d4" stroke-width="0.8" opacity="0.35"/>
+  <polyline points="40,460 40,360 80,360" fill="none" stroke="#2563eb" stroke-width="1.5" opacity="0.5"/>
+  <polyline points="40,460 140,460 140,420" fill="none" stroke="#2563eb" stroke-width="1.5" opacity="0.5"/>
+
+  <polyline points="1460,40 1460,140 1420,140" fill="none" stroke="#2563eb" stroke-width="1.5" opacity="0.4"/>
+  <polyline points="1460,40 1360,40 1360,80" fill="none" stroke="#2563eb" stroke-width="1.5" opacity="0.4"/>
+  <polyline points="1460,460 1460,360 1420,360" fill="none" stroke="#2563eb" stroke-width="1.5" opacity="0.4"/>
+  <polyline points="1460,460 1360,460 1360,420" fill="none" stroke="#2563eb" stroke-width="1.5" opacity="0.4"/>
+
+  <line x1="700" y1="0" x2="900" y2="500" stroke="#2563eb" stroke-width="0.6" opacity="0.12"/>
+  <line x1="750" y1="0" x2="950" y2="500" stroke="#06b6d4" stroke-width="0.4" opacity="0.08"/>
+  <line x1="820" y1="0" x2="620" y2="500" stroke="#2563eb" stroke-width="0.5" opacity="0.1"/>
+
+  <line x1="0" y1="180" x2="420" y2="180" stroke="url(#lineGrad)" stroke-width="1" opacity="0.7"/>
+  <line x1="0" y1="185" x2="280" y2="185" stroke="url(#lineGrad)" stroke-width="0.5" opacity="0.4"/>
+  <line x1="0" y1="320" x2="380" y2="320" stroke="url(#lineGrad)" stroke-width="1" opacity="0.6"/>
+  <line x1="1080" y1="220" x2="1500" y2="220" stroke="url(#lineGrad2)" stroke-width="1" opacity="0.7"/>
+  <line x1="1200" y1="280" x2="1500" y2="280" stroke="url(#lineGrad2)" stroke-width="0.6" opacity="0.4"/>
+
+  <g transform="translate(1280, 90)" filter="url(#softglow)">
+    <circle cx="0" cy="0" r="38" fill="none" stroke="url(#sparkGrad)" stroke-width="1.5" opacity="0.7"/>
+    <circle cx="0" cy="0" r="28" fill="none" stroke="#f59e0b" stroke-width="0.8" opacity="0.4"/>
+    <line x1="0" y1="-52" x2="0" y2="-44" stroke="#f59e0b" stroke-width="1.5" opacity="0.8"/>
+    <line x1="52" y1="0" x2="44" y2="0" stroke="#f59e0b" stroke-width="1.5" opacity="0.8"/>
+    <line x1="0" y1="52" x2="0" y2="44" stroke="#f59e0b" stroke-width="1" opacity="0.5"/>
+    <line x1="-52" y1="0" x2="-44" y2="0" stroke="#f59e0b" stroke-width="1.5" opacity="0.8"/>
+    <line x1="37" y1="-37" x2="31" y2="-31" stroke="#f59e0b" stroke-width="1.2" opacity="0.6"/>
+    <line x1="-37" y1="-37" x2="-31" y2="-31" stroke="#f59e0b" stroke-width="1.2" opacity="0.6"/>
+    <line x1="37" y1="37" x2="31" y2="31" stroke="#f59e0b" stroke-width="1" opacity="0.4"/>
+    <line x1="-37" y1="37" x2="-31" y2="31" stroke="#f59e0b" stroke-width="1" opacity="0.4"/>
+    <circle cx="0" cy="0" r="6" fill="#f59e0b" opacity="0.6"/>
+    <circle cx="0" cy="0" r="3" fill="#fef3c7" opacity="0.9"/>
+  </g>
+
+  <circle cx="180" cy="80" r="2.5" fill="#2563eb" opacity="0.5"/>
+  <circle cx="320" cy="420" r="2" fill="#06b6d4" opacity="0.4"/>
+  <circle cx="1100" cy="120" r="3" fill="#2563eb" opacity="0.4"/>
+  <circle cx="1380" cy="350" r="2.5" fill="#06b6d4" opacity="0.35"/>
+  <line x1="180" y1="80" x2="230" y2="80" stroke="#2563eb" stroke-width="0.8" opacity="0.3"/>
+  <line x1="230" y1="80" x2="230" y2="110" stroke="#2563eb" stroke-width="0.8" opacity="0.3"/>
+  <line x1="320" y1="420" x2="370" y2="420" stroke="#06b6d4" stroke-width="0.8" opacity="0.25"/>
+  <line x1="1100" y1="120" x2="1140" y2="120" stroke="#2563eb" stroke-width="0.8" opacity="0.3"/>
+  <line x1="1140" y1="120" x2="1140" y2="150" stroke="#2563eb" stroke-width="0.8" opacity="0.3"/>
+
+  <text x="150" y="218" font-family="'Courier New', Courier, monospace" font-size="15" fill="#2563eb" opacity="0.7" letter-spacing="3">const dev =</text>
+  <text x="148" y="295" font-family="'Georgia', 'Times New Roman', serif" font-size="72" font-weight="700" fill="url(#textGrad)" letter-spacing="-1" filter="url(#glow)">Arthur Martins</text>
+  <text x="152" y="340" font-family="'Courier New', Courier, monospace" font-size="17" fill="#06b6d4" letter-spacing="4" opacity="0.9">FULL STACK DEVELOPER</text>
+  <line x1="150" y1="358" x2="560" y2="358" stroke="#2563eb" stroke-width="1" opacity="0.4"/>
+  <text x="152" y="382" font-family="'Courier New', Courier, monospace" font-size="12" fill="#64748b" letter-spacing="2">problem solver  ·  creative  ·  communicative  ·  security-aware</text>
+
+  <text x="960" y="290" font-family="'Courier New', Courier, monospace" font-size="11" fill="#475569" letter-spacing="3">// stack</text>
+
+  <g transform="translate(960, 305)">
+    <rect width="104" height="32" rx="4" fill="#1e3a5f" stroke="#2563eb" stroke-width="1" opacity="0.9"/>
+    <rect width="8" height="32" rx="4" fill="#3178c6" opacity="0.9"/>
+    <text x="20" y="21" font-family="'Courier New', monospace" font-size="13" font-weight="700" fill="#e2e8f0">TypeScript</text>
+  </g>
+  <g transform="translate(1075, 305)">
+    <rect width="104" height="32" rx="4" fill="#2a2200" stroke="#f59e0b" stroke-width="1" opacity="0.9"/>
+    <rect width="8" height="32" rx="4" fill="#f7df1e" opacity="0.9"/>
+    <text x="20" y="21" font-family="'Courier New', monospace" font-size="13" font-weight="700" fill="#e2e8f0">JavaScript</text>
+  </g>
+  <g transform="translate(1190, 305)">
+    <rect width="80" height="32" rx="4" fill="#0c2233" stroke="#06b6d4" stroke-width="1" opacity="0.9"/>
+    <rect width="8" height="32" rx="4" fill="#61dafb" opacity="0.9"/>
+    <text x="20" y="21" font-family="'Courier New', monospace" font-size="13" font-weight="700" fill="#e2e8f0">React</text>
+  </g>
+  <g transform="translate(960, 350)">
+    <rect width="80" height="32" rx="4" fill="#111" stroke="#475569" stroke-width="1" opacity="0.9"/>
+    <rect width="8" height="32" rx="4" fill="#e2e8f0" opacity="0.9"/>
+    <text x="20" y="21" font-family="'Courier New', monospace" font-size="13" font-weight="700" fill="#e2e8f0">Next.js</text>
+  </g>
+  <g transform="translate(1053, 350)">
+    <rect width="84" height="32" rx="4" fill="#0f2417" stroke="#22c55e" stroke-width="1" opacity="0.9"/>
+    <rect width="8" height="32" rx="4" fill="#339933" opacity="0.9"/>
+    <text x="20" y="21" font-family="'Courier New', monospace" font-size="13" font-weight="700" fill="#e2e8f0">Node.js</text>
+  </g>
+  <g transform="translate(1149, 350)">
+    <rect width="110" height="32" rx="4" fill="#0d1f38" stroke="#336791" stroke-width="1" opacity="0.9"/>
+    <rect width="8" height="32" rx="4" fill="#336791" opacity="0.9"/>
+    <text x="20" y="21" font-family="'Courier New', monospace" font-size="13" font-weight="700" fill="#e2e8f0">PostgreSQL</text>
+  </g>
+
+  <text x="150" y="465" font-family="'Courier New', monospace" font-size="10" fill="#334155" letter-spacing="1">github.com/Arthur-Mendes-M</text>
+  <text x="1350" y="465" font-family="'Courier New', monospace" font-size="10" fill="#334155" letter-spacing="1" text-anchor="end">open to opportunities worldwide</text>
+  <text x="750" y="38" font-family="'Courier New', monospace" font-size="10" fill="#1e3a5f" letter-spacing="4" text-anchor="middle" opacity="0.6">{ BUILDING IDEAS INTO REALITY }</text>
+  <line x1="580" y1="35" x2="680" y2="35" stroke="#2563eb" stroke-width="0.5" opacity="0.3"/>
+  <line x1="820" y1="35" x2="920" y2="35" stroke="#2563eb" stroke-width="0.5" opacity="0.3"/>
+</svg>
