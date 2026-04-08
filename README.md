@@ -4,7 +4,7 @@
 
 <br/>
 
-## Hey, I'm Arthur 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=400&color=06A6C3&vCenter=true&width=900&height=40&lines=Hey%2C+I%27m+Arthur+Mendes+%F0%9F%91%8B;Full+Stack+Developer+%7C+Banking+Security;Cybersecurity+Junior+Analyst+in+training;Building+real+solutions+for+real+problems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 I'm a Full Stack Developer based in São Paulo, Brazil, currently working at a **banking security company** where I build and maintain systems that need to be both reliable and secure. Outside of my day job, I take on freelance projects — some already live with real users, others in production soon.
 
