@@ -49,15 +49,17 @@ I'm actively looking for **remote freelance work or full-time remote positions**
 
 ## Selected work
 
-**[CTF Platform](https://github.com/Arthur-Mendes-M/ctf-platform)** — A Capture the Flag platform built with Next.js and TypeScript, with a full backend and hosted database. Developed collaboratively for a cybersecurity event. Live at [ctfv2.vercel.app](https://ctfv2.vercel.app).
+**[Shopiac](https://github.com/Arthur-Mendes-M/shopiac)** — E-commerce frontend for a football club's official store, built as a freelance delivery. React + TypeScript + Tailwind, integrated with a Go backend developed by a partner. Currently serving real customers.
 
-**[Shopiac](https://github.com/Arthur-Mendes-M/shopiac)** — E-commerce frontend for a live product, built as a freelance delivery. React + TypeScript + Tailwind. Integrated with a Go backend developed by a partner. Currently serving real customers.
+**[Casa dos Arcanjos Digital](https://github.com/Arthur-Mendes-M/casa-dos-arcanjos-digital)** — Institutional website and donation platform for a Brazilian NGO with 10+ years of social impact. Includes Pix/bank transfer donation flows, transparency tracker, and project showcase. Freelance project with a registered domain and active recurring payments.
 
-**[StockWise](https://github.com/Arthur-Mendes-M/stockwise-platform)** — Full-stack inventory and stock management platform. I built both the React frontend and the backend API. Deployed and functional.
+**[StockWise](https://github.com/Arthur-Mendes-M/stockwise)** — REST API for an inventory management platform. Express + TypeScript with layered architecture (controllers, services, repositories), Prisma ORM, MongoDB, JWT auth, Zod validation, and Supabase for file storage.
 
-**[Stafflink](https://github.com/Arthur-Mendes-M/stafflink)** — HR management system for small and medium-sized companies. Node.js backend with a full frontend. 126 commits. Live demo available.
+**[CTF Platform](https://github.com/Arthur-Mendes-M/ctf-platform)** — Capture the Flag platform built for academic cybersecurity events. Students solve challenges and take exams by spinning up isolated Linux VMs directly in the browser. Next.js + TypeScript, live at [ctfv2.vercel.app](https://ctfv2.vercel.app).
 
-**[Fastify TS Zod Starter](https://github.com/Arthur-Mendes-M/fastify-ts-zod-starter)** — A RESTful API boilerplate using Fastify, TypeScript, Zod for schema validation, and auto-generated Swagger docs. Built as a reusable starting point for production APIs.
+**[Fastify TS Zod Starter](https://github.com/Arthur-Mendes-M/fastify-ts-zod-starter)** — RESTful API boilerplate with Fastify, TypeScript, Zod for schema validation, and auto-generated Swagger docs. Single source of truth from validation to documentation.
+
+**[Stafflink](https://github.com/Arthur-Mendes-M/stafflink)** — HR management system for small and medium-sized companies. Node.js + Express backend covering employees, attendance, vacations, and internal news. Live demo available.
 
 ---
 
