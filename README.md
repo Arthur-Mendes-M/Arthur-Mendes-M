@@ -63,9 +63,9 @@ I'm actively looking for **remote freelance work or full-time remote positions**
 
 ## GitHub stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arthur-Mendes-M&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=8&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Mendes-M&layout=compact&theme=tokyonight&langs_count=8&border_radius=8" />
+<div>
+  <img height="180" src="https://github-readme-stats-six-theta-96.vercel.app/api?username=Arthur-Mendes-M&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=8&hide_border=false" />
+  <img height="180" src="https://github-readme-stats-six-theta-96.vercel.app/api/top-langs/?username=Arthur-Mendes-M&layout=compact&theme=tokyonight&langs_count=8&border_radius=8&hide=html,css" />
 </div>
 
 ---
